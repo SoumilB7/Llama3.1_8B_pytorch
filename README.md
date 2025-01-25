@@ -32,7 +32,7 @@ cd Llama3.2_1B_pytorch
 
 ### Running the Notebook
 
-A Jupyter notebook (`Llama3.2_1B_Demo.ipynb`) is provided to demonstrate model setup, quantization, and inference.
+A Jupyter notebook (`Llama3.2_1B.ipynb`) is provided to demonstrate model setup, quantization, and inference.
 
 1. **Start the Jupyter server**:
 
@@ -42,7 +42,7 @@ A Jupyter notebook (`Llama3.2_1B_Demo.ipynb`) is provided to demonstrate model s
 
 2. **Open** `Llama3.2_1B_Demo.ipynb` and follow the step-by-step instructions.
 
-### Model Inference
+### Model Inference - General method
 
 To perform inference with the quantized Llama 3.2 1B model (the normal method):
 
